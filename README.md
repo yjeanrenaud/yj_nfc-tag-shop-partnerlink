@@ -1,5 +1,5 @@
 # yj_nfc-tag-shop-partnerlink
-[NFC-tag-shop.de](https://www.nfc-tag-shop.de?nfcPal=pocketPC) changed it's partner link as of today, april 5th 2022.
+[NFC-tag-shop.de](https://www.nfc-tag-shop.de?nfcPal=pocketPC) changed its partner link as of today, april 5th 2022.
 I had to convert all old links from `sPartner=code` to `nfcPal=code`.
 
 - therefore I used (again) a single php file to convert the links within the mariaDB of the wordpress installation.
