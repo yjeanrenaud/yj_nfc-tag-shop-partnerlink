@@ -8,6 +8,7 @@ checks for that
 ONLY run from console via 
 	#php -f convert.php
 2022 by Yves Jeanrenaud
+https://github.com/yjeanrenaud/yj_nfc-tag-shop-partnerlink
 */
 
 if(defined('STDIN') ) {
