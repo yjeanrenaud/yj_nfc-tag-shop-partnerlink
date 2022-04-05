@@ -18,6 +18,8 @@ else {
 	echo("Not Running from CLI\This script is solely for you to use via command line, not via browser!");
 	die;
 }
+
+//FILL IN YOURS:
 $sql_username ="";
 $sql_password ="";
 $sql_hostname ="";
